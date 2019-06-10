@@ -3,198 +3,138 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Silke Röder
+    tagline: Sales Executive
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: roeder.silke@gmail.com
+    phone: +1-904-704 4355
+    website: https://silkeroeder.github.io/resume/ #do not add http://
+    linkedin: silkeroder
 
     languages:
-      - idiom: English
+      - idiom: German
         level: Native
 
-      - idiom: French
+      - idiom: English
+        level: Professional
+        
+      - idiom: Dutch
         level: Professional
 
       - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+        level: Moderate
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+     Extensive experience in all aspects of Sales (B2B and B2C), Business Development and Customer Relationship Management, 
+     prestigious recognized leaders in Vacation Ownership, Automobile Industry and Banking.
+     Globally-minded professional; experience living and working internationally, Years' expertise in services in relation to market 
+     of luxury products and the luxury lifestyle 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor’s Degree in Business Administration
+      university: BK H'rath, Germany
+      time: 1994 - 1998
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Focussing on business information technology/organization.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Licensed Real Estate Sales Agent
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Licensed under the provisions of chapter 475, Florida Statutes
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Discovery Sales Representative
+      time: 2017 - Present
+      company: Wyndham Destinations, New York City (US)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Wyndham Destinations is the world's largest vacation ownership company with an impressive list of world-renowned destinations. 
+        Service promise of being respectful, being responsive and delivering great experiences. 
+        At Wyndham Midtown 45 at New York City, a CLUB WYNDHAM Plus resort, I present the trial ownership program to Sold non-purchasers, 
+        maintain a high level of customer satisfaction and have exceeded the defined sales targets consistently.
+        
+    - role: Business Development Consultant
+      time: 2017 - Present
+      company: CityKinder, HEIMAT abroad, ICH BIN EXPAT FAIR, New York City (US)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Partner with new and existing customers and advise just the right online advertising solutions to fulfil each of their unique needs, 
+        improve internal processes to increase sales success 'CityKinder' is a lifestyle and community platform for German-speaking families in the NYC metro area. 
+        'HEIMAT abroad' is a platform designed for the German speaking community US nationwide to support expats and long-term residents with valuable information and resources.
+        'ICH BIN EXPAT FAIR', an annual networking event for the German speaking community in NYC to get informed, 
+        be inspired and meet new people who can help to integrate or support next steps on expat's journeys.
+        
+    - role: Sales Executive
+      time: 2016 - 2016
+      company: Hilton Grand Vacations, New York City (US)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Sold a vacation lifestyle product to upscale buyers interested in owning a piece of Midtown, 
+        Manhattan at West 57th Street by Hilton Club or The Hilton Club – New York; highend luxury sales completed on the same day; 
+        converted guests into Club Members by presenting them the club points packages; 
+        provided knowledge and details regarding the Vacation Ownership programs in order to help generate optimal sales volume from every interaction.
+        
+    - role: Sales Executive
+      time: 2015
+      company: Marriott Vacations Worldwide Corporation, Palm Beach (US)
+      details: |
+        Marriott Vacations Wordwide, a world premier organization for Vacation Ownership, 
+        with a collection of upper-upscale programs and resorts at destinations around the globe. 
+        Resorts: Palm Beach, Florida, Marriott's Oceana Palms, Marriott's Ocean Points Presented travel and accommodation ownership packages to owners and potential owners; created and closed new business opportunities in line with the strategic direction of the company.  
+        Acquired  new business through referrals, secured customer loyalty, and forged strong relationship with existing owners.
+        
+    - role: Freelance Project Manager
+      time: 2014
+      company: 2G CENERGY, St. Augustine
+      details: |
+        Implemented an automated Support Ticket Procedure in SalesLogix, Sage CRM software; 
+        all aspects of project management / leading from project conception and initiation to project close
+        
+    - role: Sales Executive
+      time: 2009 - 2014
+      company: Marriott Vacations Worldwide Corporation, Marbella (ES)
+      details: |
+        Marriott Vacations Wordwide, a world premier organization for Vacation Ownership, 
+        with a collection of upper-upscale programs and resorts at destinations around the globe. 
+        Resorts: Marriott's Marbella Beach Resort, Marriott's Playa Andaluza in Málaga, 
+        Marbella and Marriott's Club Son Antem in Mallorca Presented travel and accommodation ownership packages to owners and potential owners; created and closed new business opportunities in line with the strategic direction of the company.  
+        Acquired new business through referrals, secured customer loyalty, and forged strong relationship with existing owners.
+        
+    - role: Business Development and Marketing Consultant 
+      time: 2008 - 2011
+      company: Real Estate Freelancer, Marbella (ES)
+      details: |
+        for VALTOVILLA Promociones SL., VALTOVILLA Construcciones SL., KARMA Global Invest Srl., international property, 
+        overseas property, development of luxury marketing concepts, strategic marketing, 
+        advertising and Public Relations & Communications
+        
+    - role: (Key-)Account Manager/Business Developer in Marketing & Sales and Operation Manager
+      time: 1999 - 2008
+      company: Daimler AG, Maastricht (NL)
+      details: |
+        Business Developer / (Key-)Account Manager in Marketing & Sales (Sales, (Key-)Account Management and Business Development, 
+        development of new After Sales Services, all aspects of project management from the project idea, 
+        project leading  to the preparation of the SLA’s) 
+        
+        As an example, the development and implementation of a standardized roadside assistance service for smart cars in the European market. 
+        The implementation of this service gave great leverage to the sales teams and increased customer satisfaction as service of this kind had not previously been available to the smart customers. 
+        A direct benefit was to be able to keep the CRM knowledge within the organization as well as reduce the previous costs.
+        
+        Operations Manager for After Sales Services (leading multi-international teams with up to 20 team members, 
+        recruiting and hiring, training team members job related skills such as Telephone Communication techniques, 
+        performance appraisals, planning resources, developing of processes and software solutions)
+        
+    - role: Senior Customer Service Representative
+      time: 1995 - 1999
+      company: Citibank, Aachen (DE)
+      details: |
+        Provided excellent service to customers over the phone, e.g. balances, transaction details, investment services, loans and all other routine and complex enquiries. 
+        As a Senior Customer Service Representative I gave investment support and market information to high value/high potential customers and assisted them with the implementation of their investment strategies
 
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
